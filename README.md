@@ -1,8 +1,8 @@
 ## BIO and Working Domains Above Mentioned Relevant Domains:
 - 👋 Hi, I’m @Ansari1120 (*AHMED ALI ANSARI*)
 
-- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python),
-WEB3(DeFi,NFTs,Tokenomics,Dapps**), 
+- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python**),
+WEB3(**DeFi,NFTs,Tokenomics,Dapps**), 
 BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , 
 FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , 
 Machine learning (**NN,CNC,CNN,DL**)
