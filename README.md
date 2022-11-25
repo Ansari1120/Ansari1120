@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/114314363/204038403-5abf7f3f-bc6b-4b10-90e3-594f9701f1e6.png)
 ![icons8-next js-48](https://user-images.githubusercontent.com/114314363/204038405-3c74631c-6c13-43ac-93d5-f7c05d1048d0.png)
 ![icons8-node-js-48](https://user-images.githubusercontent.com/114314363/204038406-8cb54b5b-dfcf-45c6-8532-f8d8ab399658.png)
-![r-programming-language-icon](https://user-images.githubusercontent.com/114314363/204040720-60f40450-49c5-4be3-bfef-a409b6bbbf2f.png)
+![icons8-react-16](https://user-images.githubusercontent.com/114314363/204041021-61c51790-1826-4907-bdda-53c4ba36de4a.png)
+![r-programming-language-icon](https://user-images.githubusercontent.com/114314363/204041026-7cc31547-8951-4a0c-a86c-4361d3cb443a.png)
 ![icons8-power-bi-48](https://user-images.githubusercontent.com/114314363/204038408-4b252544-0362-4b0d-b053-1634c7ea3648.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/114314363/204038411-d86ec037-832d-4d9b-a614-a1a460c6d1a2.png)
 ![icons8-solidity-48](https://user-images.githubusercontent.com/114314363/204038864-064fec6e-9ac6-456b-9aab-5be53acaa5b9.png)
@@ -35,6 +36,5 @@ You can click the Preview link to take a look at your changes.
 ![icons8-javascript-48](https://user-images.githubusercontent.com/114314363/204038415-281ada85-f4e4-4fbb-8573-0eeef4c96d3c.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/114314363/204038418-10433225-4e09-40c7-97cf-0706a2b55dbb.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/114314363/204038422-ea682b9e-76a6-4178-8a68-0d05bcabc5c2.png)
-![icons8-react-30](https://user-images.githubusercontent.com/114314363/204040030-9f0ff773-4263-4c94-88ef-db53a06a3d7e.png)
 
 
