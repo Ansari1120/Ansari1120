@@ -1,6 +1,6 @@
 ## BIO and Working Domains Above Mentioned Relevant Domains:
 - 👋 Hi, I’m @Ansari1120 (*AHMED ALI ANSARI*)
-- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python , WEB3(DeFi,NFTs,Tokenomics,Dapps**) , BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , FULL STACK DEVELOPMENT MOBILE & APP ( **React js , MongoDb , MySql , Node js , Next js , Express Js **) , Machine learning (**NN,CNC,CNN,DL**)
+- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python,WEB3(DeFi,NFTs,Tokenomics,Dapps**) , BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , Machine learning (**NN,CNC,CNN,DL**)
 - 🌱 I’m currently Doing ... BS COMPUTER SCIENCE
 - 📫 How to reach me + Further Projects And Career Stats Information Visit My Professional Sites ...LinkedIn https://www.linkedin.com/in/ahmed-ali-ansari-560473254/
 - Github(UserName) : *Ansari1120#4438*
