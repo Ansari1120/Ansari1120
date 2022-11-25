@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![icons8-solidity-48](https://user-images.githubusercontent.com/114314363/204038864-064fec6e-9ac6-456b-9aab-5be53acaa5b9.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/114314363/204038438-3c61fb40-2144-4289-a91d-946d079413a6.png)
 ![icons8-express-js-50](https://user-images.githubusercontent.com/114314363/204038414-0ddc393b-3488-4bff-b528-11feefec2e68.png)
+![r-programming-language-icon](https://user-images.githubusercontent.com/114314363/204040391-9729c9e8-4175-473a-ae02-17ba7637b975.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/114314363/204038415-281ada85-f4e4-4fbb-8573-0eeef4c96d3c.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/114314363/204038418-10433225-4e09-40c7-97cf-0706a2b55dbb.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/114314363/204038422-ea682b9e-76a6-4178-8a68-0d05bcabc5c2.png)
