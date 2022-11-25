@@ -1,10 +1,20 @@
 ## BIO and Working Domains Above Mentioned Relevant Domains:
 - 👋 Hi, I’m @Ansari1120 (*AHMED ALI ANSARI*)
-- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python,WEB3(DeFi,NFTs,Tokenomics,Dapps**) , BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , Machine learning (**NN,CNC,CNN,DL**)
+
+- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python),
+WEB3(DeFi,NFTs,Tokenomics,Dapps**), 
+BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , 
+FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , 
+Machine learning (**NN,CNC,CNN,DL**)
+
 - 🌱 I’m currently Doing ... BS COMPUTER SCIENCE
+
 - 📫 How to reach me + Further Projects And Career Stats Information Visit My Professional Sites ...LinkedIn https://www.linkedin.com/in/ahmed-ali-ansari-560473254/
+
 - Github(UserName) : *Ansari1120#4438*
+
 - Twitter : https://twitter.com/AComp_Scientist
+
 - Gmail : *ahmedaliansari506@gmail.com*               
 
 <!---
@@ -24,5 +34,5 @@ You can click the Preview link to take a look at your changes.
 ![icons8-javascript-48](https://user-images.githubusercontent.com/114314363/204038415-281ada85-f4e4-4fbb-8573-0eeef4c96d3c.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/114314363/204038418-10433225-4e09-40c7-97cf-0706a2b55dbb.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/114314363/204038422-ea682b9e-76a6-4178-8a68-0d05bcabc5c2.png)
-![image](https://user-images.githubusercontent.com/114314363/204039103-f1c78640-bbe4-4785-b3d6-faeaeb906427.png)
+![image](https://user-images.githubusercontent.com/114314363/204039382-b87f1f37-4783-4733-8187-79aa796d4f7c.png)
 
