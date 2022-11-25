@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 ![icons8-node-js-48](https://user-images.githubusercontent.com/114314363/204038406-8cb54b5b-dfcf-45c6-8532-f8d8ab399658.png)
 ![icons8-power-bi-48](https://user-images.githubusercontent.com/114314363/204038408-4b252544-0362-4b0d-b053-1634c7ea3648.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/114314363/204038411-d86ec037-832d-4d9b-a614-a1a460c6d1a2.png)
-![icons8-react-16](https://user-images.githubus![i![icons8-tableau-software-48](https://user-images.githubusercontent.com/114314363/204038437-eed863dc-ac09-4731-af5a-a9d8e5721ef0.png)
 ![icons8-solidity-48](https://user-images.githubusercontent.com/114314363/204038864-064fec6e-9ac6-456b-9aab-5be53acaa5b9.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/114314363/204038438-3c61fb40-2144-4289-a91d-946d079413a6.png)
 ![icons8-express-js-50](https://user-images.githubusercontent.com/114314363/204038414-0ddc393b-3488-4bff-b528-11feefec2e68.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/114314363/204038415-281ada85-f4e4-4fbb-8573-0eeef4c96d3c.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/114314363/204038418-10433225-4e09-40c7-97cf-0706a2b55dbb.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/114314363/204038422-ea682b9e-76a6-4178-8a68-0d05bcabc5c2.png)
+https://icons8.com/icons/set/react
