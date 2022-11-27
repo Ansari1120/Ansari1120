@@ -7,15 +7,7 @@ BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) ,
 FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , 
 Machine learning (**NN,CNC,CNN,DL**)
 
-- 🌱 I’m currently Doing ... BS COMPUTER SCIENCE
-
-- 📫 How to reach me + Further Projects And Career Stats Information Visit My Professional Sites ...LinkedIn https://www.linkedin.com/in/ahmed-ali-ansari-560473254/
-
-- Github(UserName) : *Ansari1120#4438*
-
-- Twitter : https://twitter.com/AComp_Scientist
-
-- Gmail : *ahmedaliansari506@gmail.com*               
+- 🌱 I’m currently Doing ... BS COMPUTER SCIENCE              
 
 <!---
 Ansari1120/Ansari1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,10 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Professional Sites to Contact / Connect / Follow me 📫 :
-
+<h4To see Further Projects And Career Stats Information Visit My Professional Sites</h4>
 📝 Gmail : *ahmedaliansari506@gmail.com* 
-
-<h4To see Further Projects And Career Stats Information Visit My Professional Sites</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AComp_Scientist" target="blank"><img align="center" src="https://user-images.githubusercontent.com/114314363/204149967-a2b0cb05-090b-44cf-ac59-ee30eae2d44d.png" alt="AhmedAliAnsari" height="30" width="40" /></a>
