@@ -1,11 +1,11 @@
 <h1 align="center"> 👋 Hey There ! , I’m @Ansari1120 (*AHMED ALI ANSARI*)</h1>
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
 
-- 👀 I’m interested in ... DATA SCIENCE(**Tableau,Power-BI,R,Python**),
-WEB3(**DeFi,NFTs,Tokenomics,Dapps**), 
-BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) , 
-FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) , 
-Machine learning (**NN,CNC,CNN,DL**)
+- DATA SCIENCE(**Tableau,Power-BI,R,Python**)
+- WEB3(**DeFi,NFTs,Tokenomics,Dapps**)
+- BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) 
+- FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
+- Machine learning (**NN,CNC,CNN,DL**)
 
 - 🌱 I’m currently Doing ... BS COMPUTER SCIENCE              
 
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Professional Sites to Contact / Connect / Follow me 📫 :
-# To see Further Projects And Career Stats Information Visit My Professional Sites
+### To see Further Projects And Career Stats Information Visit My Professional Sites
 📝 Gmail : *ahmedaliansari506@gmail.com* 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
