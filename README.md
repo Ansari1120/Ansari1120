@@ -1,4 +1,3 @@
-## BIO and Working Domains Above Mentioned Relevant Domains:
 <h1 align="center"> 👋 Hey There ! , I’m @Ansari1120 (*AHMED ALI ANSARI*)</h1>
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
 
@@ -45,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href=" https://twitter.com/AComp_Scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AhmedAliAnsari" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-ali-ansari-560473254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AhmedAliAnsari" height="30" width="40" /></a>
-<a href="ahmedaliansari506@gmail.com" target="blank"><img align="center" src="https://github.com/AHMEDALIANSARI/ahmedaliansari/blob/main/whatsapp-logo-png-2290.png?raw=true" alt="AhmedAliAnsari" height="30" width="40" /></a>
+<a href="ahmedaliansari506@gmail.com" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/114314363/204149544-43591ee7-27d3-47be-a692-4b9e651a3a1c.png)?raw=true" alt="AhmedAliAnsari" height="30" width="40" /></a>
 </p>
 
 
