@@ -42,9 +42,9 @@ You can click the Preview link to take a look at your changes.
 <h4To see Further Projects And Career Stats Information Visit My Professional Sites</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://twitter.com/AComp_Scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AhmedAliAnsari" height="30" width="40" /></a>
+<a href="https://twitter.com/AComp_Scientist" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://user-images.githubusercontent.com/114314363/204149544-43591ee7-27d3-47be-a692-4b9e651a3a1c.png?raw=true)" alt="AhmedAliAnsari" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-ali-ansari-560473254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AhmedAliAnsari" height="30" width="40" /></a>
-<a href="ahmedaliansari506@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/114314363/204149544-43591ee7-27d3-47be-a692-4b9e651a3a1c.png?raw=true" alt="AhmedAliAnsari" height="30" width="40" /></a>
+<a href="https://user-images.githubusercontent.com/114314363/204149544-43591ee7-27d3-47be-a692-4b9e651a3a1c.png?raw=true" target="blank"><img align="center" src="ahmedaliansari506@gmail.com" alt="AhmedAliAnsari" height="30" width="40" /></a>
 </p>
 
 
