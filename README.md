@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <hr>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <h4 align="center">
   <a href="[https://github.com/haris741?tab=repositories](https://github.com/Ansari1120)" title="Show Repositories">🔎 Show More 🔍</a>
