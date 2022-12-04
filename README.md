@@ -61,10 +61,11 @@ You can click the Preview link to take a look at your changes.
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
   </a>
+      <a href="https://www.githubtrends.io/wrapped/Ansari1120">
+      <img width=355 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" />
   </div>
   <br>
-      <a href="https://www.githubtrends.io/wrapped/Ansari1120">
-      <img width=325 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" />
+  
 
  
          <img width=325 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/Contribution by Month" />
