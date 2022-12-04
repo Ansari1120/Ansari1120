@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
   <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height=250 alt="graph"/>
+    <img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansari1120)](https://github.com/Ansari1120/github-readme-activity-graph)"/>
 </p>
 <hr>
 
