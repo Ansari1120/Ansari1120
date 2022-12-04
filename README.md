@@ -61,7 +61,6 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
