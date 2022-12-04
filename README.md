@@ -67,6 +67,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <h4 align="center">
-  <a href="[https://github.com/Ansari1120?tab=repositories](https://github.com/Ansari1120)" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ansari1120" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
