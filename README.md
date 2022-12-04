@@ -64,15 +64,9 @@ You can click the Preview link to take a look at your changes.
   
   <br>
     <a href="https://www.githubtrends.io/wrapped/Ansari1120">
-      <img width=355 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/repos?                      time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" />
+      <img width=355 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/Contributions by Month" />
   </a>  
   
-
- 
-         <img width=325 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/Contribution by Month" />
-
-
-
 </p>
 <hr>
 
