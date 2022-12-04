@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hey There ! , I’m @Ansari1120 (*AHMED ALI ANSARI*)</h1>
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haris741.haris741">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ansari1120.Ansari1120">
 
 
 - DATA SCIENCE(**Tableau,Power-BI,R,Python**)
