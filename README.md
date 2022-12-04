@@ -62,10 +62,8 @@ You can click the Preview link to take a look at your changes.
   </a>
   </div>
   <br>
-   <a href="https://github.com/Ansari1120/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://activity-graph.herokuapp.com/graph?username=Ansari1120" />
-    </a>
-          <img src=""/>
+   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Ansari1120/langs)](https://githubtrends.io)
+
 
 </p>
 <hr>
