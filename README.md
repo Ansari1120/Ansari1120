@@ -62,7 +62,9 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br>
 </p>
-https://activity-graph.herokuapp.com/graph?username=Ansari1120)](https://github.com/Ansari1120/github-readme-activity-graph
+<a href="https://github.com/Ansari1120/github-readme-activity-graph">
+      <img width=325 align="center" src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=merko"/>
+    </a>
 <hr>
 
 <h4 align="center">
