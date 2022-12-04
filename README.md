@@ -1,5 +1,7 @@
 <h1 align="center"> 👋 Hey There ! , I’m @Ansari1120 (*AHMED ALI ANSARI*)</h1>
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haris741.haris741">
+
 
 - DATA SCIENCE(**Tableau,Power-BI,R,Python**)
 - WEB3(**DeFi,NFTs,Tokenomics,Dapps**)
@@ -61,10 +63,8 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
   <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<a href="https://github.com/Ansari1120/github-readme-activity-graph">
-      <img width=325 align="center" src="https://activity-graph.herokuapp.com/graph?username=Ansari1120&theme=merko"/>
-    </a>
 <hr>
 
 <h4 align="center">
