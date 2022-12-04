@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
   <br>
    [![GitHub Trends SVG]()](https://githubtrends.io)
    https://www.githubtrends.io/wrapped/Ansari1120
-         <img width=325 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/langs" />
+         <img width=325 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120" />
 
 
 
