@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
   <br>
-    <img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansari1120)](https://github.com/Ansari1120/github-readme-activity-graph)"/>
+    <img src="[![Ahmed's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansari1120)](https://github.com/Ansari1120/github-readme-activity-graph)"/>
 </p>
 <hr>
 
