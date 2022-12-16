@@ -63,9 +63,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   
   <br>
-    <a href="https://www.githubtrends.io/wrapped/Ansari1120">
       <img width=355 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/Contributions by Month" />
-  </a>  
   
 </p>
 <hr>
