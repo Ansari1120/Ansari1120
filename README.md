@@ -63,10 +63,11 @@ You can click the Preview link to take a look at your changes.
   </div>
   
   <br>
-      <img width=355 align="center" src="https://api.githubtrends.io/user/svg/Ansari1120/Contributions by Month" />
   
 </p>
 <hr>
 
 
-
+<h4 align="center">
+  <a href="https://github.com/Ansari1120/Ansari1120?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
