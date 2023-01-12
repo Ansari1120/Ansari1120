@@ -69,5 +69,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <h4 align="center">
-  <a href="https://github.com/Ansari1120/Ansari1120?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ansari1120/Ansari1120?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
 </h4>
