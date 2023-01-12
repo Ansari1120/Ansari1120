@@ -44,23 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/Ansari1120/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=react&border=61dafb&hide_border=true" alt="AhmedAliAnsari"/>
-    </a>
-    
-  </div>
-  
-  
-  <br>
-  
-</p>
-<hr>
-
-
-<h4 align="center">
-  <a href="https://github.com/Ansari1120/Ansari1120?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
