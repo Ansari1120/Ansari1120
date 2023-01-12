@@ -51,16 +51,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/Ansari1120/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=react&border=61dafb&hide_border=true" alt="AhmedAliAnsari"/>
     </a>
-    <a href="https://github.com/Ansari1120/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ansari1120&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    
   </div>
-  <br><br><br><br><br><br><br><br><br>
-   <div align=center>
-    <a href="https://github.com/Ansari1120/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a> 
-  </div>
+  
   
   <br>
   
