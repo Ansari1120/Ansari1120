@@ -33,14 +33,52 @@ You can click the Preview link to take a look at your changes.
 
 ## My Professional Sites to Contact / Connect / Follow me 📫 :
 ### To see Further Projects And Career Stats Information Visit My Professional Sites
-📝 Gmail : *ahmedaliansari506@gmail.com* 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AComp_Scientist" target="blank"><img align="center" src="https://user-images.githubusercontent.com/114314363/204149967-a2b0cb05-090b-44cf-ac59-ee30eae2d44d.png" alt="AhmedAliAnsari" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-ali-ansari-560473254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AhmedAliAnsari" height="30" width="40" /></a>
-<a href="Ansari1120#4438" target="blank"><img align="center" src="https://user-images.githubusercontent.com/114314363/204150090-f0104579-9554-4f94-b979-a2df59bb49b1.png" alt="AhmedAliAnsari" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Vivid.70" target="blank"><img align="center" src="https://user-images.githubusercontent.com/114314363/204150188-1fa24380-9182-4fd2-a1df-e103b809cd89.png" alt="AhmedAliAnsari" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/ahmed-ali-ansari-560473254/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
+<a href="https://twitter.com/AComp_Scientist/" target="_blank">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+
+
+<a href="https://wa.me/923172101966/" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+
+
+<a href="https://www.facebook.com/Vivid.70/" target="_blank">
+   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+
+
+<a href="https://www.facebook.com/messages/t/Vivid.70/" target="_blank">
+   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+</a>
+
+
+
+
+
+
+
+<a href="mailto:ahmedaliansari506@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+
+<a href="https://codewithowais.medium.com/" target="_blank">
+<img alt="Discord" src="https://img.shields.io/discord/Ansari1120#4438">
+</a>
+
+
 
 
 
