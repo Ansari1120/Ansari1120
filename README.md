@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://codewithowais.medium.com/" target="_blank">
+<a href="https://discord.com/" target="_blank">
 <img alt="Discord" src="https://img.shields.io/discord/Ansari1120#4438">
 </a>
 
