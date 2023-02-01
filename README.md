@@ -79,6 +79,16 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
+## ❤ Views and Followers
+  
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+   <img src="https://komarev.com/ghpvc/?username=Ansari1120">
+</a>
+<a href="https://github.com/Ansari1120?tab=followers"><img src="https://img.shields.io/github/followers/Ansari1120?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
 
 
 
