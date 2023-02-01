@@ -2,11 +2,10 @@
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
 
 
-- DATA SCIENCE(**Tableau,Power-BI,R,Python**)
-- WEB3(**DeFi,NFTs,Tokenomics,Dapps**)
+- DATA SCIENCE(**Tableau,Power-BI,R,Python,Machine Learning**)
+- WEB3(**DeFi,NFTs,Dapps**)
 - BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) 
 - FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
-- Machine learning (**Supervised/unsupervised Ml , Neural Networks**)
 
 - 🌱 I’m currently Doing ... BS COMPUTER SCIENCE              
 
@@ -79,12 +78,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-## ❤ Views and Followers
-  
-<a href="https://github.com/Ansari1120-DAS/github-profile-views-counter">
-   <img src="https://komarev.com/ghpvc/?username=Ansari1120">
-</a>
-<a href="https://github.com/Ansari1120?tab=followers"><img src="https://img.shields.io/github/followers/Ansari1120?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
