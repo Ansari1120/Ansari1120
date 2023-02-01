@@ -73,10 +73,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://discord.com/Ansari1120#4438" target="_blank">
-<img alt="Discord" src="https://img.shields.io/discord/Ansari1120#4438">
-</a>
-
 
 
 
