@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![icons8-javascript-48](https://user-images.githubusercontent.com/114314363/204038415-281ada85-f4e4-4fbb-8573-0eeef4c96d3c.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/114314363/204038418-10433225-4e09-40c7-97cf-0706a2b55dbb.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/114314363/204038422-ea682b9e-76a6-4178-8a68-0d05bcabc5c2.png)
-![image](https://user-images.githubusercontent.com/114314363/216403538-12f07327-75af-438b-b2ae-03fffc4a2be0.png)
+![image](https://img.icons8.com/color/40/null/tailwindcss.png)
 
 
 
