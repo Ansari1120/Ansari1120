@@ -93,9 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Status
   
-  <a href="https://github.com/Ansari1120/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ansari1120&theme=react&border=61dafb&hide_border=true" alt="Ansari1120"/>
-    </a>
+<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ansari1120&theme=react&border=61dafb&hide_border=true" alt="Ansari1120"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansari1120&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&layout=compact&theme=dark&langs_count=50" />
 
