@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.icons8.com/color/40/null/tailwindcss.png)
 ![image](https://img.icons8.com/color/48/null/chakra-ui.png)
 ![image](https://img.icons8.com/color/48/null/tableau-software.png)
+<a target="_blank" href="https://icons8.com/icon/zfHRZ6i1Wg0U/figma">Figma icon by Icons8</a>
 
 
 
