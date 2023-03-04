@@ -2,9 +2,8 @@
 <h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
 
 
-- DATA SCIENCE(**Tableau,Power-BI,R,Python,Machine Learning**)
-- WEB3(**DeFi,NFTs,Dapps**)
-- BLOCKCHAIN(**Solidity,Hardhat,Hyperledger**) 
+- DATA ANALYTICS(**Tableau,Power-BI,R,Python,Machine Learning**)
+- BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps**) 
 - FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
 
 - 🌱 I’m currently Doing ... BS COMPUTER SCIENCE              
