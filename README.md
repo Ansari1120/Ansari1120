@@ -6,7 +6,7 @@
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps**) 
 - FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
 
-- 🌱 I’m currently Doing ... BS COMPUTER SCIENCE              
+- 🌱 I’m currently Studying ... BS COMPUTER SCIENCE              
 
 <!---
 Ansari1120/Ansari1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
