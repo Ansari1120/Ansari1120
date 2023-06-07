@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey There ! , This is @Ansari1120 (*AHMED ALI ANSARI*)</h1>
-<h3 align="center">👀 I’m interested in domains related to Computer Sciences...</h3>
+<h3 align="center">👀 I’m interested in domains relevant to Computer Sciences...</h3>
 
 
 - DATA SCIENCE(**Tableau,Power-BI,R,Python,Machine Learning**)
