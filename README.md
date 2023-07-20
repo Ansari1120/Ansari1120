@@ -97,4 +97,4 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansari1120&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&layout=compact&theme=dark&langs_count=50" />
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ansari1120&theme=dracula" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansari1120&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" />
