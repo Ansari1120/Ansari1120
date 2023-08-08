@@ -12,7 +12,7 @@
 Ansari1120/Ansari1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Skills/Expertise In Above Mentioned Relevant Domains:
+## Skills/Expertise In Above Mentioned Domains:
 
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/114314363/204038403-5abf7f3f-bc6b-4b10-90e3-594f9701f1e6.png)
 ![icons8-next js-48](https://user-images.githubusercontent.com/114314363/204038405-3c74631c-6c13-43ac-93d5-f7c05d1048d0.png)
