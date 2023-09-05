@@ -1,8 +1,6 @@
 <h1 align="center"> 👋 Hey There ! , This is @Ansari1120 (*AHMED ALI ANSARI*)</h1>
 <h2 align="center">👀 I’m interested in domains relevant to Computer Sciences...</h2>
 
-
-- DATA SCIENCE(**Tableau,Power-BI,R,Python,Machine Learning**)
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps**) 
 - FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
 
