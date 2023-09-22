@@ -2,7 +2,7 @@
 <h2 align="center">👀 I’m interested in domains relevant to Computer Sciences...</h2>
 
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps,Web3js,Etherjs**) 
-- FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,Node js,Next js,Express Js**) 
+- FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js**) 
 
 - 🌱 I’m currently Studying ... BS COMPUTER SCIENCE              
 
