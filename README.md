@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="mailto:ahmedaliansari506@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedaliansari506@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
