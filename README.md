@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey There ! , This is @Ansari1120 (*AHMED ALI ANSARI*)</h1>
-<h2 align="center">👀 I’m working in domains relevant to Computer Sciences...</h2>
+<h2 align="center">👀 I’m working in domains relevant to Computer Science...</h2>
 
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps,Web3js,Etherjs, Ethereum,Polygon**) 
 - FULL STACK DEVELOPMENT MOBILE & APP (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js**) 
