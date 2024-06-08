@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently Studying ... Bachelor's of Science in COMPUTER SCIENCE              
 
+<p>NOTE : Some repositories are Private almost 13 to 14 due to production level severity.can be shown when asked.</p>
 <!---
 Ansari1120/Ansari1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
