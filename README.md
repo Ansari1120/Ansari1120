@@ -2,15 +2,16 @@
 <h2 align="center">👀 I’m working in domains relevant to Computer Science...</h2>
 
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps,Web3js,Etherjs, Ethereum,Polygon**) 
-- FULL STACK DEVELOPMENT FRONTEND - MOBILE & WEB APP , BACKEND (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js,React Native**) 
+- FULL STACK DEVELOPMENT FRONTEND - MOBILE & WEB APP, BACKEND (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js,React Native**) 
 
 - 🌱 I’m currently Studying ... Bachelor's of Science in COMPUTER SCIENCE              
 
 <p>NOTE : Some repositories are Private almost 13 to 14 due to production level severity.can be shown when asked.</p>
-<!---
-Ansari1120/Ansari1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## MY RESUME:
+[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/15753199/Ahmed-Full-Stack-Dev-Resume.pdf)
+
 ## Skills/Expertise In Above Mentioned Domains:
 
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/114314363/204038403-5abf7f3f-bc6b-4b10-90e3-594f9701f1e6.png)
