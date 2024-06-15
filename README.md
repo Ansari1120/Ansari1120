@@ -10,7 +10,7 @@
 
 
 ## MY RESUME:
-[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/15753199/Ahmed-Full-Stack-Dev-Resume.pdf)
+[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/15845449/Ahmed-Full-Stack-Dev-Resume.pdf)
 
 ## Skills/Expertise In Above Mentioned Domains:
 
