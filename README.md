@@ -1,13 +1,14 @@
 <h1 align="center"> 👋 Hey There ! , This is AHMED ALI ANSARI</h1>
-<h2 align="center">👀 I’m working in domains relevant to Computer Science...</h2>
+<h2 align="center">👀 I’m working in domains relevant to Computing & Information Technology</h2>
 
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps,Web3js,Etherjs, Ethereum,Polygon**) 
 - FULL STACK DEVELOPMENT FRONTEND - MOBILE & WEB APP, BACKEND (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js,React Native**) 
-
-- 🌱 I’m currently Studying ... Bachelor's of Science in COMPUTER SCIENCE              
+- 👨‍🎓 I’m BS COMPUTER SCIENCE Graduate 🎓 From  [Indus University](https://www.indus.edu.pk/) Registered & Recognized by [Higher Education Commision Pakistan Council Body](https://nceac.org.pk/)
+- CERTIFIED WEB & MOBILE APP DEVELOPER || CERTIFIED REACT NATIVE DEVELOPER || CERTIFIED SEO EXPERT.
+- A Year of Experience at onsite Computing Relevant Jobs at [Icot Solutions](https://pk.linkedin.com/company/icot-solution-llc)  & [Mean3 Pvt ltd](https://mean3.com/) - Present
 
 <p>NOTE : Some repositories are Private almost 13 to 14 due to production level severity.can be shown when asked.</p>
-
+<p>NOTE : My some Core COMPUTING Courses from my Degree Meantime are here availale for reference as a form of repo.</p>
 
 ## MY RESUME:
 [Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/15845449/Ahmed-Full-Stack-Dev-Resume.pdf)
