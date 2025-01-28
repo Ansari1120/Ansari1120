@@ -80,17 +80,11 @@
 
 
 
+### GitHub Stats
 
 
+# Hi there 👋
 
-
-
-
-
-
-### GitHub Status
-  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ansari1120&theme=dark" alt="GitHub Streak" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansari1120&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&layout=compact&theme=dark&langs_count=50" />
 
