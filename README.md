@@ -90,7 +90,7 @@
 
 ### GitHub Status
   
-<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ansari1120&theme=react&border=61dafb&hide_border=true" alt="Ansari1120"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ansari1120&theme=dark" alt="GitHub Streak" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansari1120&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&layout=compact&theme=dark&langs_count=50" />
 
