@@ -82,9 +82,6 @@
 
 ### GitHub Stats
 
-
-# Hi there 👋
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansari1120&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1120&layout=compact&theme=dark&langs_count=50" />
 
