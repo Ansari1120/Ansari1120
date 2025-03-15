@@ -14,9 +14,9 @@
 
 [Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/19266279/Ahmed-Full-Stack-Dev-Resume.2.pdf)
 
-## MY RESUME:
+## MY Portfolio:
 
-[Portfolio](https://ahmed-ali-ansari.vercel.app/https://ahmed-ali-ansari.vercel.app/)
+[ahmed-ali-ansari.vercel.app](https://ahmed-ali-ansari.vercel.app/)
 
 ## Skills/Expertise In Above Mentioned Domains:
 
