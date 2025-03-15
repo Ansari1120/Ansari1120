@@ -7,13 +7,16 @@
 - CERTIFIED WEB & MOBILE APP DEVELOPER || CERTIFIED REACT NATIVE DEVELOPER || CERTIFIED SEO EXPERT.
 - A Year of Experience at onsite Computing Relevant Jobs at [Icot Solutions](https://pk.linkedin.com/company/icot-solution-llc)  & [Mean3 Pvt ltd](https://mean3.com/) - Present
 
-<p>NOTE : Some repositories are Private almost 13 to 14 due to production level severity.can be shown when asked.</p>
+<p>NOTE : Some repositories are Private almost 13 to 14 due to production level severity can be shown when asked.</p>
 <p>NOTE : My some Core COMPUTING Courses from my Degree Meantime are here availale for reference as a form of repo.</p>
 
 ## MY RESUME:
 
 [Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/19266279/Ahmed-Full-Stack-Dev-Resume.2.pdf)
 
+## MY RESUME:
+
+[Portfolio](https://ahmed-ali-ansari.vercel.app/https://ahmed-ali-ansari.vercel.app/)
 
 ## Skills/Expertise In Above Mentioned Domains:
 
