@@ -11,7 +11,9 @@
 <p>NOTE : My some Core COMPUTING Courses from my Degree Meantime are here availale for reference as a form of repo.</p>
 
 ## MY RESUME:
-[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/18307241/Ahmed-Full-Stack-Dev-Resume.pdf)
+
+[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/19266279/Ahmed-Full-Stack-Dev-Resume.2.pdf)
+
 
 ## Skills/Expertise In Above Mentioned Domains:
 
