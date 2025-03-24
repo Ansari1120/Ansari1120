@@ -1,5 +1,6 @@
-<h1 align="center"> 👋 Hey There ! , This is AHMED ALI ANSARI</h1>
-<h2 align="center">👀 I’m working in domains relevant to Computing & Information Technology</h2>
+![cover](https://github.com/user-attachments/assets/4d145e2e-7924-4cda-ac6a-a865872ccdd3)
+
+<h3 align="center">I’m working in domains relevant to Computing & Information Technology</h3>
 
 - BLOCKCHAIN(Web03: **Solidity,Hardhat,Hyperledger,DeFi,NFTs,Dapps,Web3js,Etherjs, Ethereum,Polygon**) 
 - FULL STACK DEVELOPMENT FRONTEND - MOBILE & WEB APP, BACKEND (**React js,MongoDb,MySql,postgresql,Node js,Next js,Express Js,React Native**) 
