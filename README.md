@@ -13,7 +13,7 @@
 
 ## MY RESUME:
 
-[Ahmed-Full-Stack-Dev-Resume.pdf](https://github.com/user-attachments/files/19266279/Ahmed-Full-Stack-Dev-Resume.2.pdf)
+[Ahmed-Full-Stack-Dev-Resume.pdf](https://drive.google.com/file/d/1hmu5T2SzcbNj1EMnwk7zls7zYck-z8II/view?usp=drivesdk)
 
 ## MY Portfolio:
 
